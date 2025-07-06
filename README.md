@@ -85,7 +85,7 @@ node index.js
 ### Backend – AI Models (Python)
 ```sh
 # Clone the repository
-git clone https://github.com/ayush07mishra/MedScanAI.git
+git clone https://github.com/tanya-pal/MedScanAI
 cd MedScanAI
 
 # Install Python dependencies
